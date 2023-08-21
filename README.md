@@ -1,6 +1,6 @@
 ## Sobre mim
 
-👨🏽‍💻Eu sou o Caetano e sou apaixonado por tecnologia. Estou atualmente buscando oportunidades na área de computação para aplicar e aprimorar minhas habilidades, ao mesmo tempo em que contribuo para o crescimento e inovação.
+👨🏽‍💻 Me chamo Caetano e atualmente estou me aprofundando cada vez mais na área de tecnologia para a área de DevOps com Cibersegurança e redes de computadores. Estou sempre aberto a novos desafios e a cumpri-los com dedicação.
 
 🟢 Futura faculdade de Análise e Desenvolvimento de Sistemas 
 
