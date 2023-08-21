@@ -1,10 +1,5 @@
 ## Sobre mim
 
-### Trabalho:
-
-🎯 Analista de suporte técnico (NOC) | CCNA 200-301 em progresso... | Linux | Apaixonado por tecnologia
-
-
 👨🏽‍💻Eu sou o Caetano e sou apaixonado por tecnologia. Estou atualmente buscando oportunidades na área de computação para aplicar e aprimorar minhas habilidades, ao mesmo tempo em que contribuo para o crescimento e inovação.
 
 🟢 Futura faculdade de Análise e Desenvolvimento de Sistemas 
