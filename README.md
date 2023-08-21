@@ -22,7 +22,7 @@
 Sinta-se à vontade para entrar em contato comigo por e-mail em (Caetano_silva9177@outlook.com)
 
 
-<a href="linkedin.com/in/caetano-silva-997b89249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/caetano-silva-997b89249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 
 
